@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://randsf.github.io/ym.g.chen/sitemap.xml
+Sitemap: https://randsf.github.io/sitemap.xml
